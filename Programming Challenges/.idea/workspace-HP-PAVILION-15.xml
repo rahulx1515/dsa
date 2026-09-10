@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e650dce2-fc4b-44f4-8779-e735eba2c1e5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2y7RiOJpnGm2GbUrPHpis9aCB6g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbsoluteNumTernary.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.ArraySumAverage.executor": "Run",
+    "Application.ArrayToString.executor": "Run",
+    "Application.Book.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CalculatorSwitch.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.Customer.executor": "Run",
+    "Application.DeleteFromArray.executor": "Run",
+    "Application.DiagonalSum2DArray.executor": "Run",
+    "Application.DiceRoll.executor": "Run",
+    "Application.ExitOnExit.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FibonacciUsingRecursion.executor": "Run",
+    "Application.GCD.executor": "Run",
+    "Application.GuessingGame.executor": "Run",
+    "Application.IsSortedArray.executor": "Run",
+    "Application.LCM.executor": "Run",
+    "Application.LoopPatterns.executor": "Run",
+    "Application.MaxArrayUsingForEach.executor": "Run",
+    "Application.MaxMinArray.executor": "Run",
+    "Application.MergeTwoSortedArray.executor": "Run",
+    "Application.MinimumOfNumTernary.executor": "Run",
+    "Application.MonthOfYearTernary.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.MultiplicationTableUsingFor.executor": "Run",
+    "Application.NumberGuessingGame.executor": "Run",
+    "Application.OccurrencesArray.executor": "Run",
+    "Application.OccurrencesUsingForEach.executor": "Run",
+    "Application.OddEvenTernary.executor": "Run",
+    "Application.OddNmberSum.executor": "Run",
+    "Application.OddNumberSum.executor": "Run",
+    "Application.PalindromeArray.executor": "Run",
+    "Application.PalindromeNumber.executor": "Run",
+    "Application.PalindromeUsingRecursion.executor": "Run",
+    "Application.PasswordChecker.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.PrintEven.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseTheDigits.executor": "Run",
+    "Application.Search2DArray.executor": "Run",
+    "Application.StringManipulation.executor": "Run",
+    "Application.StudentScoreTernary.executor": "Run",
+    "Application.StudentToString.executor": "Run",
+    "Application.SumAvg2DArray.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.SumPositive.executor": "Run",
+    "Application.TestArray.executor": "Run",
+    "Application.TestEmployee.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/RAHUL/OneDrive/Desktop/java/Programming Challenges",
+    "onboarding.tips.debug.path": "C:/Users/RAHUL/OneDrive/Desktop/java/Challenges/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TestArray">
+    <configuration name="ArrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayToString" />
+      <module name="Challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.kgcoding.calculator.geometry.utils.Calculator" />
+      <module name="Challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.kgcoding.calculator.geometry.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.kgcoding.Bank.Customer" />
+      <module name="Challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.kgcoding.Bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.kgcoding.ArrayOperations.TestArray" />
+      <module name="Challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.kgcoding.ArrayOperations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.kgcoding.Employee.TestEmployee" />
+      <module name="Challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.kgcoding.Employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestArray" />
+        <item itemvalue="Application.TestEmployee" />
+        <item itemvalue="Application.Customer" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.ArrayToString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e650dce2-fc4b-44f4-8779-e735eba2c1e5" name="Changes" comment="" />
+      <created>1749183752153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749183752153</updated>
+    </task>
+    <servers />
+  </component>
+</project>
