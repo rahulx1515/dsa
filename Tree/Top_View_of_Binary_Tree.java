@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 class TreeNode {
@@ -36,7 +37,7 @@ public class Top_View_of_Binary_Tree {
             return ll;
         }
 
-        Queue<Pair> q = new LinkedList<>();
+        Queue<Pair> q = new ArrayDeque<>();
         TreeMap<Integer, Integer> map = new TreeMap<>();
         
         q.add(new Pair(root, 0));
